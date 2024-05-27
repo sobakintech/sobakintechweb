@@ -1,0 +1,299 @@
+.mainpage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mainpage-mainpage {
+  gap: 10px;
+  flex: 1;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 37px 229px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/tq_2guisxaylu-e18m-1500w.png");
+}
+.mainpage-main {
+  gap: 25px;
+  display: flex;
+  padding: 27px 83px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(48, 48, 48, 1);
+}
+.mainpage-text {
+  color: rgba(255, 255, 255, 1);
+  width: 257px;
+  height: auto;
+  font-size: 59px;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-text02 {
+  color: rgba(212, 212, 212, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-links {
+  gap: 19px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.mainpage-link {
+  display: contents;
+}
+.mainpage-tiktok {
+  gap: 8px;
+  height: 38px;
+  display: flex;
+  padding: 14px 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 1);
+}
+.mainpage-tiktokicon21 {
+  width: 15px;
+  height: 17px;
+}
+.mainpage-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.mainpage-link1 {
+  display: contents;
+}
+.mainpage-devicecollection {
+  gap: 4px;
+  height: 38px;
+  display: flex;
+  padding: 14px 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(85, 0, 243, 1);
+}
+.mainpage-tiktokicon211 {
+  width: 25px;
+  height: 24px;
+}
+.mainpage-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.mainpage-link2 {
+  display: contents;
+}
+.mainpage-devicecollection1 {
+  gap: 6px;
+  height: 38px;
+  display: flex;
+  padding: 14px 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(216, 75, 32, 1);
+}
+.mainpage-tiktokicon212 {
+  width: 23px;
+  height: 24px;
+}
+.mainpage-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.mainpage-link3 {
+  display: contents;
+}
+.mainpage-email {
+  gap: 8px;
+  height: 38px;
+  display: flex;
+  padding: 14px 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(69, 160, 73, 1);
+}
+.mainpage-tiktokicon213 {
+  width: 20px;
+  height: 18px;
+}
+.mainpage-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.mainpage-text12 {
+  color: rgba(212, 212, 212, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-extras {
+  gap: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mainpage-link4 {
+  display: contents;
+}
+.mainpage-windowsactivation {
+  gap: 4px;
+  height: 38px;
+  display: flex;
+  padding: 14px 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(0, 120, 215, 1);
+}
+.mainpage-tiktokicon214 {
+  width: 25px;
+  height: 24px;
+}
+.mainpage-text14 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.mainpage-link5 {
+  display: contents;
+}
+.mainpage-techtokwiki {
+  gap: 4px;
+  height: 38px;
+  display: flex;
+  padding: 14px 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(33, 33, 32, 1);
+}
+.mainpage-tiktokicon215 {
+  width: 24px;
+  height: 21px;
+}
+.mainpage-text16 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.mainpage-link6 {
+  display: contents;
+}
+.mainpage-sourcecode {
+  gap: 6px;
+  height: 38px;
+  display: flex;
+  padding: 14px 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(102, 101, 101, 1);
+}
+.mainpage-tiktokicon216 {
+  width: 25px;
+  height: 25px;
+}
+.mainpage-text18 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.mainpage-group1 {
+  width: 718px;
+  height: 39.2535400390625px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mainpage-text20 {
+  left: 285.5px;
+  color: rgba(212, 212, 212, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainpage-text21 {
+  color: rgba(212, 212, 212, 1);
+  text-decoration: NONE;
+}
+.mainpage-text23 {
+  top: 24.2535400390625px;
+  color: rgba(212, 212, 212, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

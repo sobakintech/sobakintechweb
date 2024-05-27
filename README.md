@@ -1,2 +1,1 @@
-# sobakintech
-SobakinTech website
+**v1.0** | 2024/05/27 - Present

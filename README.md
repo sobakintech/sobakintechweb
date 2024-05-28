@@ -11,4 +11,6 @@ Repo for my Official Website. You can access it [here](https://sobakintech.sytes
 - [ ] 🟩 Add an easter egg
 
 # Version history
-**v1.0** | 2024/05/27 - Present
+**v2.1** | 2024/05/28 - Present
+**v2.0** | 2024/05/28 - 2024/05/28
+**v1.0** | 2024/05/27 - 2024/05/28

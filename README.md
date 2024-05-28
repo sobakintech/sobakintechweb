@@ -1,5 +1,5 @@
 > [!NOTE]
-> To properly navigate the website on mobile devices, switch to desktop version of the website.
+> To properly navigate the website on mobile devices, switch to desktop version of the website. This is temporary.
 
 Repo for my Official Website. You can access it [here](https://sobakintech.sytes.net).
 

@@ -19,10 +19,11 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/tq_2guisxaylu-e18m-1500w.png");
+  background-image: url("public/tq_mrhl9kdres-6izr-1500w.png");
 }
 .mainpage-main {
   gap: 25px;
+  width: 793px;
   display: flex;
   padding: 27px 83px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
@@ -39,7 +40,7 @@
   font-size: 59px;
   font-style: Black;
   text-align: center;
-  font-family: Roboto;
+  font-family: Inter;
   font-weight: 900;
   line-height: normal;
   font-stretch: normal;
@@ -51,7 +52,7 @@
   font-size: 18px;
   font-style: Regular;
   text-align: center;
-  font-family: Roboto;
+  font-family: Inter;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -170,7 +171,7 @@
   font-size: 18px;
   font-style: Regular;
   text-align: center;
-  font-family: Roboto;
+  font-family: Inter;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -179,6 +180,7 @@
 .mainpage-extras {
   gap: 18px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
@@ -257,43 +259,25 @@
   text-align: left;
   line-height: 150%;
 }
-.mainpage-group1 {
-  width: 718px;
-  height: 39.2535400390625px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
 .mainpage-text20 {
-  left: 285.5px;
   color: rgba(212, 212, 212, 1);
   height: auto;
-  position: absolute;
   font-size: 13px;
   font-style: Regular;
   text-align: center;
-  font-family: Roboto;
+  font-family: Inter;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
 }
-.mainpage-text21 {
-  color: rgba(212, 212, 212, 1);
-  text-decoration: NONE;
-}
-.mainpage-text23 {
-  top: 24.2535400390625px;
-  color: rgba(212, 212, 212, 1);
-  height: auto;
-  position: absolute;
-  font-size: 13px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Roboto;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
+@media(max-width: 479px) {
+  .mainpage-main {
+    width: 460px;
+    height: 618px;
+  }
+  .mainpage-extras {
+    width: auto;
+    margin-right: 0px;
+  }
 }

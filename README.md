@@ -6,9 +6,10 @@ Repo for my Official Website. You can access it [here](https://sobakintech.sytes
 # TO-DO
 🟥 Really necessary 🟨 Necessary 🟩 We can live without it
 
-- [x] 🟥 Mobile optimization
-- [ ] 🟨 Custom page for device collection, upcoming videos and windows activation.
+- [ ] 🟥 Mobile optimization
 - [ ] 🟩 Add an easter egg
 
 # Version history
-**v1.0** | 2024/05/27 - Present
+**v2.1** | 2024/05/28 - Present <br/>
+**v2.0** | 2024/05/28 - 2024/05/28 <br/>
+**v1.0** | 2024/05/27 - 2024/05/28 <br/>

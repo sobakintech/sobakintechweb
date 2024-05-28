@@ -1,0 +1,65 @@
+.mobileerror-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mobileerror-mobileerror {
+  gap: 10px;
+  flex: 1;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 37px 229px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/tq_hvzsw0rmdr-v7t-1500w.png");
+}
+.mobileerror-main {
+  gap: 12px;
+  height: 148px;
+  display: flex;
+  padding: 0 22px 7px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(48, 48, 48, 1);
+}
+.mobileerror-text {
+  color: rgba(212, 212, 212, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobileerror-text4 {
+  color: rgba(0, 112, 240, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+@media(max-width: 479px) {
+  .mobileerror-main {
+    width: 433px;
+  }
+}

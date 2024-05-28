@@ -227,7 +227,7 @@
       </div>
     </div>
     <script>
-      function redirectIfMobile() {
+          function redirectIfMobile() {
             const isAndroid = /Android/i.test(navigator.userAgent);
             const isiOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
 
@@ -237,6 +237,8 @@
                 window.location.href = mobileURL;
             }
         }
+
+        redirectIfMobile();
     </script>
   </body>
 </html>

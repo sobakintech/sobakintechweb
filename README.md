@@ -8,8 +8,3 @@ Repo for my Official Website. You can access it [here](https://sobakintech.sytes
 
 - [ ] 🟥 Mobile optimization
 - [ ] 🟩 Add an easter egg
-
-# Version history
-**v2.1** | 2024/05/28 - Present <br/>
-**v2.0** | 2024/05/28 - 2024/05/28 <br/>
-**v1.0** | 2024/05/27 - 2024/05/28 <br/>

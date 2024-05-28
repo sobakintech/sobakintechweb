@@ -1,6 +1,3 @@
-> [!NOTE]
-> Enable desktop version on mobile devices for better experience.
-
 Repo for my Official Website. You can access it [here](https://sobakintech.sytes.net).
 
 # TO-DO

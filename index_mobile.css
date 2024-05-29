@@ -18,12 +18,12 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/tq_t9fc6ve_0u-w8j-1500w.png");
+  background-image: url("public/tq_nxo_rynimi-jr29-1500w.png");
 }
 .mobile-main {
   gap: 25px;
-  width: 345px;
-  height: 589px;
+  width: 371px;
+  height: 573px;
   display: flex;
   padding: 0 22px 7px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
@@ -49,7 +49,7 @@
 }
 .mobile-text02 {
   color: rgba(212, 212, 212, 1);
-  width: 280px;
+  width: 334px;
   height: auto;
   font-size: 18px;
   font-style: Regular;
@@ -62,7 +62,7 @@
 }
 .mobile-links {
   gap: 19px;
-  width: 304px;
+  width: 350px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -109,9 +109,22 @@
   justify-content: center;
   background-color: rgba(85, 0, 243, 1);
 }
-.mobile-tiktokicon211 {
-  width: 21px;
+.mobile-smartphone {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.mobile-smartphone1 {
+  top: 0.9999998211860657px;
+  left: 5px;
+  width: 14px;
   height: 22px;
+  position: absolute;
 }
 .mobile-text06 {
   color: rgba(255, 255, 255, 1);
@@ -122,7 +135,7 @@
 .mobile-link2 {
   display: contents;
 }
-.mobile-devicecollection1 {
+.mobile-upcomingvideos {
   gap: 6px;
   height: 38px;
   display: flex;
@@ -134,9 +147,22 @@
   justify-content: center;
   background-color: rgba(216, 75, 32, 1);
 }
-.mobile-tiktokicon212 {
-  width: 21px;
-  height: 21px;
+.mobile-videocam {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.mobile-videocam1 {
+  top: 4px;
+  left: 1.9999998807907104px;
+  width: 20px;
+  height: 16px;
+  position: absolute;
 }
 .mobile-text08 {
   color: rgba(255, 255, 255, 1);
@@ -159,9 +185,22 @@
   justify-content: center;
   background-color: rgba(69, 160, 73, 1);
 }
-.mobile-tiktokicon213 {
-  width: 21px;
-  height: 19px;
+.mobile-mail {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.mobile-mail1 {
+  top: 4px;
+  left: 1.9999998807907104px;
+  width: 20px;
+  height: 16px;
+  position: absolute;
 }
 .mobile-text10 {
   color: rgba(255, 255, 255, 1);
@@ -183,7 +222,7 @@
 }
 .mobile-extras {
   gap: 18px;
-  width: 332px;
+  width: 337px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -205,7 +244,7 @@
   justify-content: center;
   background-color: rgba(0, 120, 215, 1);
 }
-.mobile-tiktokicon214 {
+.mobile-tiktokicon211 {
   width: 21px;
   height: 20px;
 }
@@ -230,7 +269,7 @@
   justify-content: center;
   background-color: rgba(33, 33, 32, 1);
 }
-.mobile-tiktokicon215 {
+.mobile-tiktokicon212 {
   width: 21px;
   height: 18px;
 }
@@ -255,7 +294,7 @@
   justify-content: center;
   background-color: rgba(102, 101, 101, 1);
 }
-.mobile-tiktokicon216 {
+.mobile-tiktokicon213 {
   width: 21px;
   height: 21px;
 }
@@ -267,7 +306,7 @@
 }
 .mobile-bottom {
   gap: 14px;
-  width: 337px;
+  width: 604px;
   display: flex;
   align-items: center;
   flex-shrink: 0;
@@ -289,9 +328,22 @@
   justify-content: center;
   background-color: rgba(69, 160, 73, 1);
 }
-.mobile-tiktokicon217 {
-  width: 21px;
-  height: 19px;
+.mobile-bugreport1 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.mobile-bugreport2 {
+  top: 3.3999998569488525px;
+  left: 4px;
+  width: 16px;
+  height: 18px;
+  position: absolute;
 }
 .mobile-text20 {
   color: rgba(255, 255, 255, 1);
@@ -301,7 +353,7 @@
 }
 .mobile-text22 {
   color: rgba(212, 212, 212, 1);
-  width: 340px;
+  width: 346px;
   height: auto;
   font-size: 11px;
   font-style: Regular;
@@ -315,11 +367,17 @@
 @media(max-width: 479px) {
   .mobile-mobile {
     flex: 1;
-    height: auto;
   }
-  .mobile-main {
-    width: auto;
-    margin-left: var(--dl-space-space-halfunit);
-    margin-right: var(--dl-space-space-halfunit);
+  .mobile-smartphone {
+    background-color: transparent;
+  }
+  .mobile-videocam {
+    background-color: transparent;
+  }
+  .mobile-mail {
+    background-color: transparent;
+  }
+  .mobile-bugreport1 {
+    background-color: transparent;
   }
 }

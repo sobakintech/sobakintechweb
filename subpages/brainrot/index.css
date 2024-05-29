@@ -1,0 +1,20 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+}
+.home-text {
+  color: #ffffff;
+  align-self: center;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.home-video {
+  width: 410px;
+  height: 696px;
+}

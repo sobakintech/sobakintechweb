@@ -1,4 +1,4 @@
-.main-container {
+.desktop-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -6,7 +6,7 @@
   align-items: center;
   flex-direction: column;
 }
-.main-main {
+.desktop-desktop {
   gap: 10px;
   flex: 1;
   width: 100%;
@@ -19,11 +19,12 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/tq_ltguirkxvr-rptb-1500w.png");
+  background-image: url("public/external/tq_-rz4yd8avh-bnd-1500w.png");
 }
-.main-main1 {
+.desktop-main {
   gap: 25px;
-  height: 460px;
+  width: 672px;
+  height: 480px;
   display: flex;
   padding: 17px 22px 7px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
@@ -34,7 +35,7 @@
   justify-content: center;
   background-color: rgba(48, 48, 48, 1);
 }
-.main-text {
+.desktop-text {
   color: rgba(255, 255, 255, 1);
   width: 257px;
   height: auto;
@@ -47,7 +48,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.main-text02 {
+.desktop-text02 {
   color: rgba(212, 212, 212, 1);
   height: auto;
   font-size: 18px;
@@ -59,17 +60,17 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.main-links {
+.desktop-links {
   gap: 19px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
-.main-link {
+.desktop-link {
   display: contents;
 }
-.main-tiktok {
+.desktop-tiktok {
   gap: 8px;
   height: 38px;
   display: flex;
@@ -81,20 +82,45 @@
   justify-content: center;
   background-color: rgba(0, 0, 0, 1);
 }
-.main-tiktokicon21 {
+.desktop-tiktokicon21 {
   width: 21px;
   height: 22px;
 }
-.main-text04 {
+.desktop-text04 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   text-align: left;
   line-height: 150%;
 }
-.main-link1 {
+.desktop-link1 {
   display: contents;
 }
-.main-devicecollection {
+.desktop-paypal {
+  gap: 8px;
+  height: 38px;
+  display: flex;
+  padding: 14px 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(1, 158, 220, 1);
+}
+.desktop-tiktokicon211 {
+  width: 17px;
+  height: 21px;
+}
+.desktop-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.desktop-link2 {
+  display: contents;
+}
+.desktop-devicecollection {
   gap: 4px;
   height: 38px;
   display: flex;
@@ -106,7 +132,7 @@
   justify-content: center;
   background-color: rgba(85, 0, 243, 1);
 }
-.main-smartphone {
+.desktop-smartphone {
   width: 24px;
   height: 24px;
   display: flex;
@@ -115,23 +141,23 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.main-smartphone1 {
+.desktop-smartphone1 {
   top: 0.9999998211860657px;
   left: 5px;
   width: 14px;
   height: 22px;
   position: absolute;
 }
-.main-text06 {
+.desktop-text08 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   text-align: left;
   line-height: 150%;
 }
-.main-link2 {
+.desktop-link3 {
   display: contents;
 }
-.main-upcomingvideos {
+.desktop-upcomingvideos {
   gap: 6px;
   height: 38px;
   display: flex;
@@ -143,7 +169,7 @@
   justify-content: center;
   background-color: rgba(216, 75, 32, 1);
 }
-.main-videocam {
+.desktop-videocam {
   width: 24px;
   height: 24px;
   display: flex;
@@ -152,23 +178,23 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.main-videocam1 {
+.desktop-videocam1 {
   top: 4px;
   left: 1.9999998807907104px;
   width: 20px;
   height: 16px;
   position: absolute;
 }
-.main-text08 {
+.desktop-text10 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   text-align: left;
   line-height: 150%;
 }
-.main-link3 {
+.desktop-link4 {
   display: contents;
 }
-.main-email {
+.desktop-email {
   gap: 8px;
   height: 38px;
   display: flex;
@@ -180,7 +206,7 @@
   justify-content: center;
   background-color: rgba(69, 160, 73, 1);
 }
-.main-mail {
+.desktop-mail {
   width: 24px;
   height: 24px;
   display: flex;
@@ -189,20 +215,20 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.main-mail1 {
+.desktop-mail1 {
   top: 4px;
   left: 1.9999998807907104px;
   width: 20px;
   height: 16px;
   position: absolute;
 }
-.main-text10 {
+.desktop-text12 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   text-align: left;
   line-height: 150%;
 }
-.main-text12 {
+.desktop-text14 {
   color: rgba(212, 212, 212, 1);
   height: auto;
   font-size: 18px;
@@ -214,17 +240,17 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.main-extras {
+.desktop-extras {
   gap: 18px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
-.main-link4 {
+.desktop-link5 {
   display: contents;
 }
-.main-windowsactivation {
+.desktop-windowsactivation {
   gap: 4px;
   height: 38px;
   display: flex;
@@ -236,20 +262,20 @@
   justify-content: center;
   background-color: rgba(0, 120, 215, 1);
 }
-.main-tiktokicon211 {
+.desktop-tiktokicon212 {
   width: 21px;
   height: 20px;
 }
-.main-text14 {
+.desktop-text16 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   text-align: left;
   line-height: 150%;
 }
-.main-link5 {
+.desktop-link6 {
   display: contents;
 }
-.main-techtokwiki {
+.desktop-techtokwiki {
   gap: 4px;
   height: 38px;
   display: flex;
@@ -261,20 +287,20 @@
   justify-content: center;
   background-color: rgba(33, 33, 32, 1);
 }
-.main-tiktokicon212 {
+.desktop-tiktokicon213 {
   width: 21px;
   height: 18px;
 }
-.main-text16 {
+.desktop-text18 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   text-align: left;
   line-height: 150%;
 }
-.main-link6 {
+.desktop-link7 {
   display: contents;
 }
-.main-sourcecode {
+.desktop-sourcecode {
   gap: 6px;
   height: 38px;
   display: flex;
@@ -286,17 +312,17 @@
   justify-content: center;
   background-color: rgba(102, 101, 101, 1);
 }
-.main-tiktokicon213 {
+.desktop-tiktokicon214 {
   width: 21px;
   height: 21px;
 }
-.main-text18 {
+.desktop-text20 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   text-align: left;
   line-height: 150%;
 }
-.main-bottom {
+.desktop-bottom {
   gap: 14px;
   width: 604px;
   display: flex;
@@ -305,10 +331,10 @@
   flex-direction: column;
   justify-content: center;
 }
-.main-link7 {
+.desktop-link8 {
   display: contents;
 }
-.main-bugreport {
+.desktop-bugreport {
   gap: 8px;
   height: 38px;
   display: flex;
@@ -320,7 +346,7 @@
   justify-content: center;
   background-color: rgba(69, 160, 73, 1);
 }
-.main-bugreport1 {
+.desktop-bugreport1 {
   width: 24px;
   height: 24px;
   display: flex;
@@ -329,20 +355,20 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.main-bugreport2 {
+.desktop-bugreport2 {
   top: 3.3999998569488525px;
   left: 4px;
   width: 16px;
   height: 18px;
   position: absolute;
 }
-.main-text20 {
+.desktop-text22 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   text-align: left;
   line-height: 150%;
 }
-.main-text22 {
+.desktop-text24 {
   color: rgba(212, 212, 212, 1);
   width: 597px;
   height: auto;
@@ -354,4 +380,23 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+}
+@media(max-width: 479px) {
+  .desktop-desktop {
+    width: auto;
+  }
+  .desktop-main {
+    width: 441px;
+    height: 661px;
+    margin-right: 0px;
+  }
+  .desktop-text24 {
+    color: rgb(212, 212, 212);
+    width: auto;
+    font-size: 11px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
 }

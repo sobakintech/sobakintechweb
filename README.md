@@ -4,5 +4,3 @@
 🟥 Really necessary 🟨 Necessary 🟩 Not necessary
 - [x] 🟥 Mobile optimization
 - [x] 🟩 Add an easter egg
-
-###### Inspired by [TTB's website](https://thetechboy.net)<br/>

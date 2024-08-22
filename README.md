@@ -1,5 +1,6 @@
 > [!NOTE]
-> sadly the website got discontinued.
+> This website got discontinued and a new one has been made:
+> https://sobakintech.carrd.co
 
 [Report a bug or give feedback](https://docs.google.com/forms/d/e/1FAIpQLSdptUFlUd55chRflexbtlVfm2LnG0SYTxEXPMaT8Zds0PGCpg/viewform)
 
